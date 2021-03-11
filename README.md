@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+During this project, I faced many challenges. It was diffcult to make the camera launch when clikcing on take picture on the emulator device. 
 
 ## Open-source libraries used
 
