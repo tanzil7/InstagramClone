@@ -7,6 +7,12 @@
     android:orientation="vertical"
     tools:context=".LoginActivity" >
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="125dp"
+
+        android:src= "@drawable/instagram" />
+
     <EditText
         android:id = "@+id/etUsername"
         android:layout_width="match_parent"

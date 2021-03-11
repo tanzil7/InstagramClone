@@ -49,13 +49,18 @@ public class MainActivity extends AppCompatActivity {
         btnCaptureImage = findViewById(R.id.btnCaptureImage);
         ivPostImage = findViewById(R.id.ivPostImage);
         btnSubmit = findViewById(R.id.btnSubmit);
+        //btnSignout = findViewById(R.id.btnSignout);
 
-        btnSubmit.setOnClickListener(new View.OnClickListener() {
+
+        btnCaptureImage.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 launchCamera();
             }
         });
+
+        //btnSignout.setOnClicker(new View.OnClickListener())
+
 
        // queryPosts();
 
