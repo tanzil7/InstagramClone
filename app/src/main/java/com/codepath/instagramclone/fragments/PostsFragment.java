@@ -35,7 +35,6 @@ public class PostsFragment extends Fragment {
 
 
     public PostsFragment(){
-
     }
 
 
